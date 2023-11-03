@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
- <a href="https://keslerrodrigues.com.br/" target="blank">
+ <a href="https://keslerrodrigues.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="keslerliv" />
  </a>
  <a href="https://www.linkedin.com/in/kesler-rodrigues-a026511b3/" target="_blank">
