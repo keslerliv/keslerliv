@@ -4,9 +4,6 @@
 </h3>
 
 <p align="center">
- <a href="https://keslerrodrigues.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="keslerliv" />
- </a>
  <a href="https://www.linkedin.com/in/kesler-rodrigues-a026511b3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="keslerliv"/>
  </a>
@@ -23,7 +20,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: keslerrodrigues3@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/keslerliv/keslerliv/issues)
 </p>
 
 <br/>
